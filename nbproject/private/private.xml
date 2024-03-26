@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/javaNeatB/RNP/web/admin/test.jsp</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/preform.java</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/conform.java</file>
+            <file>file:/E:/javaNeatB/RNP/web/remplissage.jsp</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/MonServlet.java</file>
+            <file>file:/E:/javaNeatB/RNP/web/admin/dashbord.jsp</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/AuthenticationFilterAdmin.java</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/EmailSender.java</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/citoyens.java</file>
+            <file>file:/E:/javaNeatB/RNP/web/confirmation.jsp</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/AuthenticationFilter.java</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/LoginAdmin.java</file>
+            <file>file:/E:/javaNeatB/RNP/src/java/Controller/CheckStatusServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
